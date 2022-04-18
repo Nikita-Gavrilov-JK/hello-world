@@ -1,2 +1,2 @@
 # hello-world
-Тестируб Git ;)
+Тестирую Git ;)
